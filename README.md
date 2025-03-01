@@ -1,2 +1,2 @@
-# website
+# Website
 Tejas' personal website
